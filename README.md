@@ -1,4 +1,4 @@
-# kaggle-MNIST-Digit-Recongnizer
+# kaggle-MNIST-Digit-Recongnizer (CNN keras)
 https://www.kaggle.com/c/digit-recognizer
 
 * **1. Data preparation**
