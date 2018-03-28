@@ -1,7 +1,7 @@
 # kaggle-MNIST-Digit-Recongnizer (CNN keras)
 Competition : https://www.kaggle.com/c/digit-recognizer
 
-Detailed Explaination : MNIST.ipynb
+Detailed Explanation : MNIST.ipynb
 
 * **1. Data preparation**
     * 1.1 Load train data
