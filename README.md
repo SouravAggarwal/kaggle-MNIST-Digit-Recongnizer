@@ -2,6 +2,7 @@
 Competition : https://www.kaggle.com/c/digit-recognizer
 
 Detailed Explanation : MNIST.ipynb
+(CNN keras, with 0.992% accuracy on kaggle)
 
 * **1. Data preparation**
     * 1.1 Load train data
